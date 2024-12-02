@@ -1,1 +1,28 @@
 # Advent-Of-Code-2024
+
+## Languages:
+- Java
+- Rust
+- Lua
+- JavaScript (JS)
+- Python
+- Scala
+- Swift
+- C++
+- Go
+- Bash
+- C
+- Kotlin
+- C#
+- Dart
+- Elixir
+- PHP
+- Haskell
+- Ruby
+- SQL
+- Perl
+- R
+- Julia
+- Assembly
+- Ada
+- Nix

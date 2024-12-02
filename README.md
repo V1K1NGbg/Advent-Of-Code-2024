@@ -4,7 +4,7 @@
 - Java
 - Rust
 - Lua
-- JavaScript (JS)
+- JavaScript
 - Python
 - Scala
 - Swift

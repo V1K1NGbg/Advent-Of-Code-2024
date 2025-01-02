@@ -11,11 +11,11 @@
 8. Assembly
 9. Rust
 10. Julia
-11. Lua
-12. Python
-13. Scala
-14. Swift
-15. C++
+11. C++
+12. Lua
+13. Python
+14. Scala
+15. Swift
 16. Go
 17. C
 18. Kotlin

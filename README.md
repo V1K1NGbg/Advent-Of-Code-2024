@@ -15,14 +15,14 @@
 12. Swift
 13. Haskell
 14. Kotlin
-15. Lua
-16. Python
-17. Scala
-18. Go
+15. Go
+16. Lua
+17. Python
+18. Scala
 19. C
 20. Dart
 21. PHP
 22. Ruby
 23. SQL
 24. Perl
-25. Java
+25. Java (Last because you can't name a file with a number and my ocd will not let me live with it)

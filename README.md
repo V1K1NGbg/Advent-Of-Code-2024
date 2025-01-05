@@ -12,10 +12,10 @@
 9. Rust
 10. Julia
 11. C++
-12. Lua
-13. Python
-14. Scala
-15. Swift
+12. Swift
+13. Lua
+14. Python
+15. Scala
 16. Go
 17. C
 18. Kotlin

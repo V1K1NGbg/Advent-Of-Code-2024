@@ -16,11 +16,11 @@
 13. Haskell
 14. Kotlin
 15. Go
-16. Lua
-17. Python
-18. Scala
-19. C
-20. Dart
+16. Dart
+17. Lua
+18. Python
+19. Scala
+20. C
 21. PHP
 22. Ruby
 23. SQL

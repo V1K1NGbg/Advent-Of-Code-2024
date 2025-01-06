@@ -19,10 +19,10 @@
 16. Dart
 17. SQL
 18. Python
-19. Lua
-20. Scala
-21. C
-22. PHP
-23. Ruby
+19. Ruby
+20. Lua
+21. Scala
+22. C
+23. PHP
 24. Perl
 25. Java (Last because you can't name a file with a number and my ocd will not let me live with it)

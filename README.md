@@ -18,8 +18,8 @@
 15. Go
 16. Dart
 17. SQL
-18. Lua
-19. Python
+18. Python
+19. Lua
 20. Scala
 21. C
 22. PHP

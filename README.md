@@ -17,12 +17,12 @@
 14. Kotlin
 15. Go
 16. Dart
-17. Lua
-18. Python
-19. Scala
-20. C
-21. PHP
-22. Ruby
-23. SQL
+17. SQL
+18. Lua
+19. Python
+20. Scala
+21. C
+22. PHP
+23. Ruby
 24. Perl
 25. Java (Last because you can't name a file with a number and my ocd will not let me live with it)

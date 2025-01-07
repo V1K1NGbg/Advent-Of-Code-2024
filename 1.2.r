@@ -1,6 +1,6 @@
 # Rscript 1.2.r
 
-data = read.csv("input/1.csv")
+data = read.csv("input/1.txt")
 
 list1 <- data$list1
 list2 <- data$list2

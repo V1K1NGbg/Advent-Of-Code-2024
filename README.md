@@ -26,3 +26,6 @@
 23. Scala
 24. Lua
 25. Java (Last because you can't name a file with a number and my ocd will not let me live with it)
+
+## For all languages:
+https://api.github.com/repos/V1K1NGbg/Advent-Of-Code-2024/languages

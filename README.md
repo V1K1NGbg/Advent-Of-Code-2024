@@ -23,6 +23,6 @@
 20. C
 21. Perl
 22. PHP
-23. Lua
-24. Scala
+23. Scala
+24. Lua
 25. Java (Last because you can't name a file with a number and my ocd will not let me live with it)

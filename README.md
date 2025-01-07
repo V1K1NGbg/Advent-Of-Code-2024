@@ -21,8 +21,8 @@
 18. Python
 19. Ruby
 20. C
-21. Lua
-22. Scala
-23. PHP
-24. Perl
+21. Perl
+22. Lua
+23. Scala
+24. PHP
 25. Java (Last because you can't name a file with a number and my ocd will not let me live with it)
